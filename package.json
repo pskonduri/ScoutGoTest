@@ -1,0 +1,17 @@
+{
+  "name": "ScoutGoTest",
+  "version": "1.0.0",
+  "description": "Few sample code snippets demonstrating the proposed insights platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Seshu Konduri",
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^2.0.1",
+    "electron": "^10.1.1"
+  }
+}
